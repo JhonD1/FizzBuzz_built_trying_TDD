@@ -32,5 +32,3 @@ class FizzBuzz
     true if (number % 5).zero? && (number % 3).zero?
   end
 end
-
-FizzBuzz.new.print_numbers
